@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inetchloi.github.io/sitemap.html.gz
+Sitemap: https://inetchloi.github.io/app/sitemap.html.gz
+Sitemap: https://inetchloi.github.io/assets/sitemap.html.gz
+Sitemap: https://inetchloi.github.io/css/sitemap.html.gz
+Sitemap: https://inetchloi.github.io/includes/sitemap.html.gz
+Sitemap: https://inetchloi.github.io/item/sitemap.html.gz
+Sitemap: https://inetchloi.github.io/src/sitemap.html.gz
